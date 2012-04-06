@@ -4,6 +4,10 @@ The [JSON](http://en.wikipedia.org/wiki/JSON) files in this repository are inten
 #Contributions
 Please feel free to create or modify any keyboard you would like to see. While I can't guarantee that your keyboard will make it in the app, I'm always interested in high-quality, thoughtful submissions. If you have any questions, just ask.
 
+#Creating a Keyboard
+Please be sure to read through [`JACKeyboard`'s documentation](http://JaredCrawford.org/JACKeyboard/Documentation) before you attempt to create a keyboard. After reading the documentation, I reccomend you copy the `English (QWERTY)` folder and use that keyboard as a base. Of course, different languages may require completely different layouts, so you may also wish to start from scratch.
+
+
 #MIT License
 
 	Copyright (c) 2012 Jared Crawford
