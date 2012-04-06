@@ -1,0 +1,139 @@
+ [
+  [
+   {
+   "text": "f"
+   },
+   {
+   "text": "v"
+   },
+   {
+   "text": "Ɵ"
+   },
+   {
+   "text": "ð"
+   },
+   {
+   "text": "s"
+   },
+   {
+   "text": "z"
+   },
+   {
+   "text": "ʃ"
+   },
+   {
+   "text": "ʒ"
+   },
+   {
+   "text": "ʧ"
+   },
+   {
+   "text": "ʤ"
+   }
+   ],
+  [
+   {
+   "style":"blankSpace",
+   "width": 1
+   },
+   {
+   "text": "p"
+   },
+   {
+   "text": "b"
+   },
+   {
+   "text": "t"
+   },
+   {
+   "text": "d"
+   },
+   {
+   "text": "k"
+   },
+   {
+   "text": "g"
+   },
+   {
+   "text": "h"
+   },
+   {
+   "text": "ʔ"
+   },
+   {
+   "style":"blankSpace",
+   "width": 1
+   }
+   ],
+  [
+   {
+   "text":"/",
+   "width": 1.25,
+   "style": "dark",
+   "modifiers":["/","[","]","(",")"]
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.25
+   },
+   {
+   "text": "m"
+   },
+   {
+   "text": "w"
+   },
+   {
+   "text": "n"
+   },
+   {
+   "text": "l"
+   },
+   {
+   "text": "ɹ"
+   },
+   {
+   "text": "j"
+   },
+   {
+   "text": "ŋ"
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.25
+   },
+   {
+   "image":"Delete",
+   "width": 1.25,
+   "style": "dark",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "text": "iəɝ",
+   "width": 1.25,
+   "style": "dark",
+   "type":"switchKeyboard",
+   "keyboardName":"IPA-Vowels"
+   },
+   {
+   "image":"Globe",
+   "width": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "space",
+   "width": 5,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardDisplayName":"IPA"
+   },
+   {
+   "text": "return",
+   "width": 2.5,
+   "style": "blue",
+   "type": "return"
+   }
+   ]
+  ]

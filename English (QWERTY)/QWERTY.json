@@ -1,0 +1,154 @@
+ [
+  [
+   {
+   "text": "Q"
+   },
+   {
+   "text": "W"
+   },
+   {
+   "text": "E",
+   "modifiers":["E","È","É","Ê","Ë","Ē","Ė","Ę"]
+   },
+   {
+   "text": "R"
+   },
+   {
+   "text": "T"
+   },
+   {
+   "text": "Y",
+   "modifiers":["Y","Ŷ","Ÿ"]
+   },
+   {
+   "text": "U",
+   "modifiers":["U","Û","Ü","Ù","Ú","Ū"]
+   },
+   {
+   "text": "I",
+   "modifiers":["I","Î","Ï","Í","Ī","Į","Ì"]
+   },
+   {
+   "text": "O",
+   "modifiers":["O","Ô","Ö","Ò","Ó","Œ","Ø","Ō","Õ"]
+   },
+   {
+   "text": "P"
+   }
+   ],
+  [
+   {
+   "style":"blankSpace",
+   "width": 0.5
+   },
+   {
+   "text": "A",
+   "modifiers":["A","À","Á","Â","Ä","Æ","Ã","Å","Ā"]
+   },
+   {
+   "text": "S",
+   "modifiers":["S","Ś","Š"]
+   },
+   {
+   "text": "D"
+   },
+   {
+   "text": "F"
+   },
+   {
+   "text": "G"
+   },
+   {
+   "text": "H"
+   },
+   {
+   "text": "J"
+   },
+   {
+   "text": "K"
+   },
+   {
+   "text": "L",
+   "modifiers":["L","Ł"]
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.5
+   }
+   ],
+  [
+   {
+   "image": "Shift",
+   "selectedImage": "ShiftSelected",
+   "width": 1.32,
+   "type":"shift",
+   "style": "shift"
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.18
+   },
+   {
+   "text": "Z",
+   "modifiers":["Z","Ž","Ź","Ż"]
+   },
+   {
+   "text": "X"
+   },
+   {
+   "text": "C",
+   "modifiers":["C","Ç","Ć","Č"]
+   },
+   {
+   "text": "V"
+   },
+   {
+   "text": "B"
+   },
+   {
+   "text": "N",
+   "modifiers":["N","Ñ","Ń"]
+   },
+   {
+   "text": "M"
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.18
+   },
+   {
+   "image": "Delete",
+   "width": 1.32,
+   "style": "dark",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "text": "123",
+   "width": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard",
+   "keyboardName": "QWERTY-Numeric"
+   },
+   {
+   "image": "Globe",
+   "width": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "space",
+   "width": 5,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardDisplayName":"English"
+   },
+   {
+   "text": "return",
+   "width": 2.5,
+   "style": "blue",
+   "type": "return"
+   }
+   ]
+  ]

@@ -1,0 +1,127 @@
+ [
+  [
+   {
+   "style":"blankSpace",
+   "width": 2
+   },
+   {
+   "text": "i",
+   "width":1.5
+   },
+   {
+   "text": "ə",
+   "width":1.5
+   },
+   {
+   "text": "ɝ",
+   "width":1.5
+   },
+   {
+   "text": "u",
+   "width":1.5
+   },
+   {
+   "style":"blankSpace",
+   "width":2
+   }
+   ],
+  [
+   {
+   "style":"blankSpace",
+   "width": 0.5
+   },
+   {
+   "text": "ɪ",
+   "width":1.5
+   },
+   {
+   "text": "e",
+   "width":1.5
+   },
+   {
+   "text": "ʌ",
+   "width":1.5
+   },
+   {
+   "text": "ɚ",
+   "width":1.5
+   },
+   {
+   "text": "ʊ",
+   "width":1.5
+   },
+   {
+   "text": "o",
+   "width":1.5
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.5
+   }
+   ],
+  [
+   {
+   "text":"/",
+   "width": 1.25,
+   "style": "dark"
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.75
+   },
+   {
+   "text": "ɛ",
+   "width": 1.5
+   },
+   {
+   "text": "ӕ",
+   "width": 1.5
+   },
+   {
+   "text": "ɔ",
+   "width": 1.5
+   },
+   {
+   "text": "a",
+   "width": 1.5
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.75
+   },
+   {
+   "image":"Delete",
+   "width": 1.25,
+   "style": "dark",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "text": "fvƟ",
+   "width": 1.25,
+   "style": "dark",
+   "type":"switchKeyboard",
+   "keyboardName":"IPA"
+   },
+   {
+   "image":"Globe",
+   "width": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "space",
+   "width": 5,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardName":"English"
+   },
+   {
+   "text": "return",
+   "width": 2.5,
+   "style": "blue",
+   "type": "return"
+   }
+   ]
+  ]

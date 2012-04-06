@@ -1,0 +1,105 @@
+ [
+  [
+   {
+   "text": "i"
+   },
+   {
+   "text": "ə"
+   },
+   {
+   "text": "ɝ"
+   },
+   "text": "u"
+   }
+   ],
+  [
+   {
+   "style":"blankSpace",
+   "width": 0.5
+   },
+   {
+   "text": "ɪ"
+   },
+   {
+   "text": "e"
+   },
+   {
+   "text": "ʌ"
+   },
+   {
+   "text": "ɚ"
+   },
+   {
+   "text": "ʊ"
+   },
+   {
+   "text": "o"
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.5
+   }
+   ],
+  [
+   {
+   "text": "iəɝ",
+   "width": 1.25,
+   "style": "dark"
+   "type":"switchKeyboard",
+   "keyboardName":"IPA-Vowels2"
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.25
+   },
+   {
+   "text": "ɛ"
+   },
+   {
+   "text": "ӕ"
+   },
+   {
+   "text": "ɔ"
+   },
+   {
+   "text": "a"
+   },
+   {
+   "style":"blankSpace",
+   "width": 0.25
+   },
+   {
+   "image":"Delete",
+   "width": 1.25,
+   "style": "dark",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "text": "fvƟ",
+   "width": 1.25,
+   "style": "dark"
+   "type":"switchKeyboard",
+   "keyboardName":"IPA"
+   },
+   {
+   "image":"Globe",
+   "width": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard",
+   },
+   {
+   "text": "space",
+   "inputText": " ",
+   "width": 5,
+   "style": "lightWithGrayText"
+   },
+   {
+   "text": "Search",
+   "width": 2.5,
+   "style": "blue",
+   "type": "newline"
+   }
+   ]
+  ]

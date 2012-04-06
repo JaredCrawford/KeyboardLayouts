@@ -1,0 +1,148 @@
+[
+ [
+  {
+  "style":"blankSpace",
+  "width": 0.5
+  },
+  {
+  "text": "Ε"
+  },
+  {
+  "text": "Ρ"
+  },
+  {
+  "text": "Τ"
+  },
+  {
+  "text": "Υ"
+  },
+  {
+  "text": "Θ"
+  },
+  {
+  "text": "Ι"
+  },
+  {
+  "text": "Ο"
+  },
+  {
+  "text": "Π"
+  },
+  {
+  "text": "´"
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.5
+  }
+  ],
+ [
+  {
+  "style":"blankSpace",
+  "width": 0.5
+  },
+  {
+  "text": "Α"
+  },
+  {
+  "text": "Σ"
+  },
+  {
+  "text": "Δ"
+  },
+  {
+  "text": "Φ"
+  },
+  {
+  "text": "Γ"
+  },
+  {
+  "text": "Η"
+  },
+  {
+  "text": "Ξ"
+  },
+  {
+  "text": "Κ"
+  },
+  {
+  "text": "Λ"
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.5
+  }
+  ],
+ [
+  {
+  "image": "Shift",
+  "selectedImage": "ShiftSelected",
+  "width": 1.25,
+  "type":"shift",
+  "style": "shift"
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.25
+  },
+  {
+  "text": "Ζ"
+  },
+  {
+  "text": "Χ"
+  },
+  {
+  "text": "Ψ"
+  },
+  {
+  "text": "Ω"
+  },
+  {
+  "text": "Β"
+  },
+  {
+  "text": "Ν"
+  },
+  {
+  "text": "Μ"
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.25
+  },
+  {
+  "image": "Delete",
+  "width": 1.25,
+  "style": "dark",
+  "type": "delete"
+  }
+  ],
+ [
+  {
+  "text": "123",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard",
+  "keyboardName": "Greek-Numeric"
+  },
+  {
+  "image": "Globe",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard"
+  },
+  {
+  "text": "διάστημα",
+  "width": 5,
+  "style": "spacebar",
+  "type": "spacebar",
+  "keyboardDisplayName":"Greek"
+  },
+  {
+  "text": "Εύρεση",
+  "width": 2.5,
+  "style": "blue",
+  "type": "return"
+  }
+  ]
+ ]

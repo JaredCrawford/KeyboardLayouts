@@ -1,0 +1,137 @@
+[
+ [
+  {
+  "text": "1"
+  },
+  {
+  "text": "2"
+  },
+  {
+  "text": "3"
+  },
+  {
+  "text": "4"
+  },
+  {
+  "text": "5"
+  },
+  {
+  "text": "6"
+  },
+  {
+  "text": "7"
+  },
+  {
+  "text": "8"
+  },
+  {
+  "text": "9"
+  },
+  {
+  "text": "0"
+  }
+  ],
+ [
+  {
+  "text": "-"
+  },
+  {
+  "text": "/"
+  },
+  {
+  "text": ":"
+  },
+  {
+  "text": ";"
+  },
+  {
+  "text": "("
+  },
+  {
+  "text": ")"
+  },
+  {
+  "text": "$"
+  },
+  {
+  "text": "&"
+  },
+  {
+  "text": "@"
+  },
+  {
+  "text": "\""
+  }
+  ],
+ [
+  {
+  "text": "#+=",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard",
+  "keyboardName": "QWERTY-Numeric-Shifted"
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.25
+  },
+  {
+  "text": ".",
+  "width": 1.4
+  },
+  {
+  "text": ",",
+  "width": 1.4
+  },
+  {
+  "text": "?",
+  "width": 1.4
+  },
+  {
+  "text": "!",
+  "width": 1.4
+  },
+  {
+  "text": "'",
+  "width": 1.4
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.25
+  },
+  {
+  "image": "Delete",
+  "width": 1.25,
+  "style": "dark",
+  "type": "delete"
+  }
+  ],
+ [
+  {
+  "text": "ABC",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard",
+  "keyboardName": "QWERTY",
+  "font": "HelveticaNeue-CondensedBold"
+  },
+  {
+  "image": "Globe",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard"
+  },
+  {
+  "text": "space",
+  "width": 5,
+  "style": "spacebar",
+  "type": "spacebar"
+  },
+  {
+  "text": "return",
+  "width": 2.5,
+  "style": "blue",
+  "type": "return"
+  }
+  ]
+ ]

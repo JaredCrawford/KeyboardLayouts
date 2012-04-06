@@ -1,0 +1,148 @@
+ [
+  [
+   {
+   "text": "Q"
+   },
+   {
+   "text": "W"
+   },
+   {
+   "text": "E"
+   },
+   {
+   "text": "R"
+   },
+   {
+   "text": "T"
+   },
+   {
+   "text": "Y"
+   },
+   {
+   "text": "U"
+   },
+   {
+   "text": "I"
+   },
+   {
+   "text": "O"
+   },
+   {
+   "text": "P"
+   },
+   {
+   "image": "Delete",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "style": "blankSpace",
+   "width": 0.3
+   },
+   {
+   "text": "A"
+   },
+   {
+   "text": "S"
+   },
+   {
+   "text": "D"
+   },
+   {
+   "text": "F",
+   "hasHomerowNub":1
+   },
+   {
+   "text": "G"
+   },
+   {
+   "text": "H"
+   },
+   {
+   "text": "J",
+   "hasHomerowNub":1
+   },
+   {
+   "text": "K"
+   },
+   {
+   "text": "L"
+   },
+   {
+   "text": "return",
+   "width": 1.7,
+   "style": "lightWithGrayText",
+   "type": "newline"
+   }
+   ],
+  [
+   {
+   "image": "Shift",
+   "type": "shift"
+   },
+   {
+   "text": "Z"
+   },
+   {
+   "text": "X"
+   },
+   {
+   "text": "C"
+   },
+   {
+   "text": "V"
+   },
+   {
+   "text": "B"
+   },
+   {
+   "text": "N"
+   },
+   {
+   "text": "M"
+   },
+   {
+   "text": ",",
+   "shiftText": "!"
+   },
+   {
+   "text": ".",
+   "shiftText": "?"
+   },
+   {
+   "image": "Shift",
+   "width": 1.25,
+   "type": "shift"
+   }
+   ],
+  [
+   {
+   "text": ".?123",
+   "width": 1.5,
+   "type": "switchKeyboard",
+   "keyboardName": "QWERTY-Numeric"
+   },
+   {
+   "image": "Globe",
+   "width": 1.5,
+   "type": "switchKeyboard"
+   },
+   {
+   "width": 6,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardDisplayName":"English"
+   },
+   {
+   "text": ".?123",
+   "width": 1.25,
+   "type": "switchKeyboard",
+   "keyboardName": "Numeric"
+   },
+   {
+   "image": "Globe",
+   "type": "switchKeyboard"
+   }
+   ]
+  ]
