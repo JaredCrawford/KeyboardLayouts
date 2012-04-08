@@ -125,31 +125,45 @@
    ],
   [
    {
-   "text": ".?123",
-   "width": 2.5,
-   "widthIfMultipleKeyboards": 1.25,
-   "textIfMultipleKeyboards":"123",
+   "text": "123",
+   "width": 1.25,
    "style": "dark",
    "type": "switchKeyboard",
-   "keyboardName": "QWERTY-Numeric",
+   "keyboardName": "Markdown-Numeric"
    },
    {
-   "image": "Globe",
-   "width": 0,
-   "widthIfMultipleKeyboards": 1.25,
+   "text":"[",
+   "width": 1,
    "style": "dark",
-   "type": "switchKeyboard"
+   "modifiers":["[","]"]
+   },
+   {
+   "text":"(",
+   "width": 1,
+   "style": "dark",
+   "modifiers":["(",")"]
    },
    {
    "text": "space",
-   "width": 5,
+   "width": 3.5,
    "style": "spacebar",
    "type": "spacebar",
-   "keyboardDisplayName":"English"
+   "keyboardDisplayName":"Markdown"
    },
    {
-   "text": "return",
-   "width": 2.5,
+   "text":"*",
+   "width": 1,
+   "style": "dark"
+   },
+   
+   {
+   "text":"#",
+   "width": 1,
+   "style": "dark"
+   },
+   {
+   "text": "↵",
+   "width": 1.25,
    "style": "blue",
    "type": "return"
    }

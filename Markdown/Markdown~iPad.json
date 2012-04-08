@@ -119,28 +119,36 @@
   [
    {
    "text": ".?123",
-   "width": 3,
-   "widthIfMultipleKeyboards": 1.5,
+   "width": 1.25,
    "type": "switchKeyboard",
-   "keyboardName": "ObjC-Numeric"
+   "keyboardName": "Markdown-Numeric"
    },
    {
-   "image": "Globe",
-   "width": 0,
-   "widthIfMultipleKeyboards": 1.5,
+   "text":"[",
    "style": "dark",
-   "type": "switchKeyboard"
+   "modifiers":["[","]"]
    },
    {
-   "width": 6,
+   "text":"(",
+   "style": "dark",
+   "modifiers":["(",")"]
+   },
+   {
+   "width": 3.75,
    "style": "spacebar",
    "type": "spacebar",
    "keyboardDisplayName":"English"
    },
    {
-   "text": ".?123",
-   "width": 1.25,
-   "type": "switchKeyboard",
+   "text":"*",
+   "style": "dark"
+   },
+   {
+   "text":"#",
+   "style": "dark"
+   },
+   {
+   "text": "!",
    "keyboardName": "Numeric"
    },
    {

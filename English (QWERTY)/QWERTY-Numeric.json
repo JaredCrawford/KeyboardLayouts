@@ -28,12 +28,14 @@
   "text": "9"
   },
   {
-  "text": "0"
+  "text": "0",
+  "modifiers": ["0","˚"]
   }
   ],
  [
   {
-  "text": "-"
+  "text": "-",
+  "modifiers": ["-","–","—","•"]
   },
   {
   "text": "/"
@@ -51,32 +53,36 @@
   "text": ")"
   },
   {
-  "text": "$"
+  "text": "$",
+  "modifiers": ["$","¢","£","€","¥","₩"]
   },
   {
-  "text": "&"
+  "text": "&",
+  "modifiers": ["&","§"]
   },
   {
   "text": "@"
   },
   {
-  "text": "\""
+  "text": "\"",
+  "modifiers": ["\"","”","‟","„","»","«"]
   }
   ],
  [
   {
   "text": "#+=",
-  "width": 1.25,
+  "width": 1.32,
   "style": "dark",
   "type": "switchKeyboard",
   "keyboardName": "QWERTY-Numeric-Shifted"
   },
   {
   "style":"blankSpace",
-  "width": 0.25
+  "width": 0.18
   },
   {
   "text": ".",
+  "modifiers": [".","…"],
   "width": 1.4
   },
   {
@@ -85,23 +91,26 @@
   },
   {
   "text": "?",
+  "modifiers": ["?","¿"],
   "width": 1.4
   },
   {
   "text": "!",
+  "modifiers": ["!","¡"],
   "width": 1.4
   },
   {
   "text": "'",
+  "modifiers": ["'","’","‘","`"],
   "width": 1.4
   },
   {
   "style":"blankSpace",
-  "width": 0.25
+  "width": 0.18
   },
   {
   "image": "Delete",
-  "width": 1.25,
+  "width": 1.32,
   "style": "dark",
   "type": "delete"
   }
@@ -109,7 +118,8 @@
  [
   {
   "text": "ABC",
-  "width": 1.25,
+  "width": 2.5,
+  "widthIfMultipleKeyboards": 1.25,
   "style": "dark",
   "type": "switchKeyboard",
   "keyboardName": "QWERTY",
@@ -117,7 +127,8 @@
   },
   {
   "image": "Globe",
-  "width": 1.25,
+  "width": 0,
+  "widthIfMultipleKeyboards": 1.25,
   "style": "dark",
   "type": "switchKeyboard"
   },

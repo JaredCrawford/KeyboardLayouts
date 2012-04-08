@@ -38,8 +38,10 @@
    ],
   [
    {
-   "style":"blankSpace",
-   "width": 0.5
+   "style":"dark",
+   "text":"@",
+   "modifiers":["@","\"","#"],
+   "width": 1
    },
    {
    "text": "A",
@@ -71,10 +73,7 @@
    "text": "L",
    "modifiers":["L","Ł"]
    },
-   {
-   "style":"blankSpace",
-   "width": 0.5
-   }
+   
    ],
   [
    {
@@ -126,40 +125,53 @@
   [
    {
    "text": "123",
-   "width": 1.25,
+   "width": 1,
+   "widthIfMultipleKeyboards": 1.1,
    "style": "dark",
    "type": "switchKeyboard",
-   "keyboardName": "QWERTY-Numeric"
+   "keyboardName": "ObjC-Numeric",
+   "font": "HelveticaNeue-CondensedBold"
    },
    {
    "image": "Globe",
-   "width": 1,
-   "widthIfMutlipleKBs": 1.225,
+   "width": 0,
+   "widthIfMultipleKeyboards": 1.1,
    "style": "dark",
    "type": "switchKeyboard"
    },
    {
    "text": "[",
+   "modifiers":["[","(","{"],
+   "style": "dark",
+   },
+   {
+   "text": "]",
+   "modifiers":["]",")","}"],
    "style": "dark",
    },
    {
    "text": "space",
-   "width": 3.5,
+   "width": 3,
    "style": "spacebar",
    "type": "spacebar",
-   "keyboardDisplayName":"English"
+   "keyboardDisplayName":"Obj-C"
    },
    {
    "text": ":",
    "style": "dark",
    },
    {
-   "text": "]",
+   "text": ";",
    "style": "dark",
    },
    {
+   "text": "⇥",
+   "inputText":"\t",
+   "style": "blue"
+   },
+   {
    "text": "⏎",
-   "width": 1.25,
+   "width": 1,
    "style": "blue",
    "type": "return"
    }

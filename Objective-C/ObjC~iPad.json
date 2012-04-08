@@ -73,7 +73,7 @@
    "text": "return",
    "width": 1.7,
    "style": "lightWithGrayText",
-   "type": "newline"
+   "type": "return"
    }
    ],
   [
@@ -119,13 +119,16 @@
   [
    {
    "text": ".?123",
-   "width": 1.5,
+   "width": 3,
+   "widthIfMultipleKeyboards": 1.5,
    "type": "switchKeyboard",
-   "keyboardName": "QWERTY-Numeric"
+   "keyboardName": "ObjC-Numeric"
    },
    {
    "image": "Globe",
-   "width": 1.5,
+   "width": 0,
+   "widthIfMultipleKeyboards": 1.5,
+   "style": "dark",
    "type": "switchKeyboard"
    },
    {
@@ -141,8 +144,8 @@
    "keyboardName": "Numeric"
    },
    {
-   "image": "Globe",
-   "type": "switchKeyboard"
+   "image": "Dismiss",
+   "type": "dismissKeyboard"
    }
    ]
   ]

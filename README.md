@@ -29,3 +29,18 @@ Please be sure to read through [`JACKeyboard`'s documentation](http://JaredCrawf
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
 	FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
 	DEALINGS IN THE SOFTWARE.
+	
+#High Priority Additions
+
+1. Spanish
+1. French
+1. German
+1. Italian
+1. Portugese
+1. Swedish
+1. Dvorak (English)
+1. URL
+1. HTML
+1. C
+1. Java
+1. Legal Citation
