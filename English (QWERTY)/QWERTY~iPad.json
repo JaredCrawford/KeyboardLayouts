@@ -79,6 +79,8 @@
   [
    {
    "image": "Shift",
+   "style":"shift",
+   "selectedImage": "ShiftSelected",
    "type": "shift"
    },
    {
@@ -112,6 +114,8 @@
    },
    {
    "image": "Shift",
+   "style":"shift",
+   "selectedImage": "ShiftSelected",
    "width": 1.25,
    "type": "shift"
    }

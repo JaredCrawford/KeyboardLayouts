@@ -31,7 +31,6 @@ Please be sure to read through [`JACKeyboard`'s documentation](http://JaredCrawf
 	DEALINGS IN THE SOFTWARE.
 	
 #High Priority Additions
-
 1. Spanish
 1. French
 1. German
