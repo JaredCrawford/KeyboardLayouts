@@ -1,0 +1,28 @@
+ [
+  [
+   {
+   "image": "Globe",
+   "width": 0,
+   "widthIfMultipleKeyboards": 1,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "·",
+   "textSize":50,
+   "style": "spacebar"
+   },
+   {
+   "text": "–",
+   "textSize":50,
+   "style": "spacebar"
+   },
+   {
+   "text":"",
+   "inputText":" ",
+   "style": "spacebar",
+   "textSize":14,
+   "keyboardDisplayName":"Morse Code"
+   }
+   ]
+  ]

@@ -1,82 +1,84 @@
 [
  [
   {
-  "text": "1"
+  "text": "["
   },
   {
-  "text": "2"
+  "text": "]"
   },
   {
-  "text": "3"
+  "text": "{"
   },
   {
-  "text": "4"
+  "text": "}"
   },
   {
-  "text": "5"
+  "text": "#"
   },
   {
-  "text": "6"
+  "text": "%",
+  "modifiers":["%","‰"]
   },
   {
-  "text": "7"
+  "text": "^"
   },
   {
-  "text": "8"
+  "text": "*"
   },
   {
-  "text": "9"
+  "text": "+"
   },
   {
-  "text": "0"
+  "text": "="
   }
   ],
  [
   {
-  "text": "-"
+  "text": "_"
   },
   {
-  "text": "/"
+  "text": "\\"
   },
   {
-  "text": ":"
+  "text": "|"
   },
   {
-  "text": ";"
+  "text": "~"
   },
   {
-  "text": "("
+  "text": "<"
   },
   {
-  "text": ")"
+  "text": ">"
   },
   {
-  "text": "$"
+  "text": "€"
   },
   {
-  "text": "&"
+  "text": "£"
   },
   {
-  "text": "@"
+  "text": "¥"
   },
   {
-  "text": "\""
+  "text": "•"
   }
   ],
  [
   {
-  "text": "#+=",
-  "width": 1.25,
+  "text": "123",
+  "width": 1.32,
   "style": "dark",
   "type": "switchKeyboard",
-  "keyboardName": "Greek-Numeric-Shifted"
+  "keyboardName": "Russian-Numeric"
   },
   {
   "style":"blankSpace",
-  "width": 0.25
+  "width": 0.18
   },
   {
   "text": ".",
+  "modifiers": [".","…"],
   "width": 1.4
   },
   {
@@ -85,52 +87,55 @@
   },
   {
   "text": "?",
+  "modifiers": ["?","¿"],
   "width": 1.4
   },
   {
   "text": "!",
+  "modifiers": ["!","¡"],
   "width": 1.4
   },
   {
   "text": "'",
+  "modifiers": ["'","’","‘","`"],
   "width": 1.4
   },
   {
   "style":"blankSpace",
-  "width": 0.25
+  "width": 0.18
   },
   {
   "image": "Delete",
-  "width": 1.25,
+  "width": 1.32,
   "style": "dark",
   "type": "delete"
   }
   ],
  [
   {
-  "text": "ABΓ",
+  "text": "ABC",
   "width": 2.5,
-  "widthIfMultipleKeyboards":1.25,
+  "widthIfMultipleKeyboards": 1.25,
   "style": "dark",
   "type": "switchKeyboard",
-  "keyboardName": "Greek",
+  "keyboardName": "Russian",
   "font": "HelveticaNeue-CondensedBold"
   },
   {
   "image": "Globe",
   "width": 0,
-  "widthIfMultipleKeyboards":1.25,
+  "widthIfMultipleKeyboards": 1.25,
   "style": "dark",
   "type": "switchKeyboard"
   },
   {
-  "text": "διάστημα",
+  "text": "пробел",
   "width": 5,
   "style": "spacebar",
   "type": "spacebar"
   },
   {
-  "text": "Εύρεση",
+  "text": "Ввод",
   "width": 2.5,
   "style": "blue",
   "type": "return"

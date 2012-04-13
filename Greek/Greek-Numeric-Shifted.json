@@ -109,7 +109,8 @@
  [
   {
   "text": "ABΓ",
-  "width": 1.25,
+  "width": 2.5,
+  "widthIfMultipleKeyboards":1.25,
   "style": "dark",
   "type": "switchKeyboard",
   "keyboardName": "Greek",
@@ -117,7 +118,8 @@
   },
   {
   "image": "Globe",
-  "width": 1.25,
+  "width": 0,
+  "widthIfMultipleKeyboards":1.25,
   "style": "dark",
   "type": "switchKeyboard"
   },

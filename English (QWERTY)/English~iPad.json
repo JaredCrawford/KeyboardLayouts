@@ -126,7 +126,7 @@
    "width": 3,
    "widthIfMultipleKeyboards": 1.5,
    "type": "switchKeyboard",
-   "keyboardName": "ObjC-Numeric"
+   "keyboardName": "English-Numeric"
    },
    {
    "image": "Globe",
@@ -145,11 +145,11 @@
    "text": ".?123",
    "width": 1.25,
    "type": "switchKeyboard",
-   "keyboardName": "Numeric"
+   "keyboardName": "English-Numeric"
    },
    {
-   "image": "Globe",
-   "type": "switchKeyboard"
+   "image": "Dismiss",
+   "type": "dismissKeyboard"
    }
    ]
   ]

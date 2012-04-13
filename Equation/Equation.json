@@ -1,0 +1,160 @@
+[
+ [
+  {
+  "text": "1"
+  },
+  {
+  "text": "2"
+  },
+  {
+  "text": "3"
+  },
+  {
+  "text": "4"
+  },
+  {
+  "text": "5"
+  },
+  {
+  "text": "6"
+  },
+  {
+  "text": "7"
+  },
+  {
+  "text": "8"
+  },
+  {
+  "text": "9"
+  },
+  {
+  "text": "0"
+  }
+  ],
+ [
+  {
+  "text": ".",
+  "modifiers":[".",","]
+  },
+  {
+  "text": "+",
+  "modifiers":["+","±"]
+  },
+  {
+  "text": "−",
+  "modifiers":["-","±"]
+  },
+  {
+  "text": "×",
+  "modifiers":["×","⋅","*"]
+  },
+  {
+  "text": "/",
+  "modifiers":["/","÷","\\"]
+  },
+  {
+  "text": "=",
+  "modifiers":["=","≠","≈","≅"]
+  },
+  {
+  "text": "<",
+  "modifiers":["<","≤","≪"]
+  },
+  {
+  "text": ">",
+  "modifiers":[">","≥","≫"]
+  },
+  {
+  "text": "(",
+  "modifiers":["(","[","{"]
+  },
+  {
+  "text": ")",
+  "modifiers":[")","]","}"]
+  }
+  ],
+ [
+  {
+  "text": "∂Θ",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard",
+  "keyboardName": "Equation-Greek"
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.25
+  },
+  {
+  "text": "!",
+  "width": 1.4
+  },
+  {
+  "text": "°",
+  "modifiers":["°","∠"],
+  "width": 1.4
+  },
+  {
+  "text": "%",
+  "modifiers":["%","‰"],
+  "width": 1.4
+  },
+  {
+  "text": "x",
+  "modifiers":["x","y","z"],
+  "width": 1.4
+  },
+  {
+  "text": "ˆ",
+  "modifiers":["ˆ","ˉ","˘","ˇ"],
+  "width": 1.4
+  },
+  {
+  "style":"blankSpace",
+  "width": 0.25
+  },
+  {
+  "image": "Delete",
+  "width": 1.25,
+  "style": "dark",
+  "type": "delete"
+  }
+  ],
+ [
+  {
+  "text": "ABC",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard",
+  "keyboardName": "Equation-QWERTY",
+  "font": "HelveticaNeue-CondensedBold"
+  },
+  {
+  "text": "∫∞",
+  "width": 1.25,
+  "style": "dark",
+  "type": "switchKeyboard",
+  "keyboardName": "Equation-Symbols"
+  },
+  {
+  "image": "Globe",
+  "width": 0,
+  "widthIfMultipleKeyboards":1.1,
+  "style": "dark",
+  "type": "switchKeyboard"
+  },
+  {
+  "text": "space",
+  "width": 5,
+  "style": "spacebar",
+  "type": "spacebar",
+  "keyboardDisplayName":"Equation"
+  },
+  {
+  "text": "Return",
+  "width": 2.5,
+  "style": "blue",
+  "type": "return"
+  }
+  ]
+ ]

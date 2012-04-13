@@ -1,0 +1,158 @@
+ [
+  [
+   {
+   "text": "\"",
+   "modifiers": ["\"","”","‟","„","»","«"]
+   },
+   {
+   "text": "<",
+   "modifiers":["<","≤"]
+   },
+   {
+   "text": ">",
+   "modifiers":[">","≥"]
+   },
+   {
+   "text": "P"
+   },
+   {
+   "text": "Y",
+   "modifiers":["Y","Ŷ","Ÿ"]
+   },
+   {
+   "text": "F"
+   },
+   {
+   "text": "G"
+   },
+   {
+   "text": "C",
+   "modifiers":["C","Ç","Ć","Č"]
+   },
+   {
+   "text": "R"
+   },
+   {
+   "text": "L",
+   "modifiers":["L","Ł"]
+   },
+   {
+   "text": "?",
+   "modifiers": ["?","¿"]
+   }
+   ],
+  [
+   {
+   "text": "A",
+   "modifiers":["A","À","Á","Â","Ä","Æ","Ã","Å","Ā"]
+   },
+   {
+   "text": "O",
+   "modifiers":["O","Ô","Ö","Ò","Ó","Œ","Ø","Ō","Õ"]
+   },
+   {
+   "text": "E",
+   "modifiers":["E","È","É","Ê","Ë","Ē","Ė","Ę"]
+   },
+   {
+   "text": "U",
+   "modifiers":["U","Û","Ü","Ù","Ú","Ū"]
+   },
+   {
+   "text": "I",
+   "modifiers":["I","Î","Ï","Í","Ī","Į","Ì"]
+   },
+   {
+   "text": "D"
+   },
+   {
+   "text": "H"
+   },
+   {
+   "text": "T"
+   },
+   {
+   "text": "N",
+   "modifiers":["N","Ñ","Ń"]
+   },
+   {
+   "text": "S",
+   "modifiers":["S","Ś","Š"]
+   },
+   {
+   "text": "_"
+   }
+   ],
+  [
+   {
+   "image": "Shift",
+   "selectedImage": "ShiftSelected",
+   "type":"shift",
+   "style": "shift"
+   },
+   {
+   "text": "Q"
+   },
+   {
+   "text": "J"
+   },
+   {
+   "text": "K"
+   },
+   {
+   "text": "X"
+   },
+   {
+   "text": "B"
+   },
+   {
+   "text": "M"
+   },
+   {
+   "text": "W"
+   },
+   {
+   "text": "V"
+   },
+   {
+   "text": "Z",
+   "modifiers":["Z","Ž","Ź","Ż"]
+   },
+   {
+   "image": "Delete-mini",
+   "style": "dark",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "text": ".?123",
+   "width": 2.5,
+   "widthIfMultipleKeyboards": 1.25,
+   "textIfMultipleKeyboards":"123",
+   "style": "dark",
+   "type": "switchKeyboard",
+   "keyboardName": "Dvorak-Numeric",
+   },
+   {
+   "image": "Globe",
+   "width": 0,
+   "widthIfMultipleKeyboards": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "space",
+   "width": 5,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardDisplayName":"Dvorak"
+   },
+   {
+   "text": "return",
+   "width": 2.5,
+   "style": "blue",
+   "type": "return"
+   }
+   ]
+  ]

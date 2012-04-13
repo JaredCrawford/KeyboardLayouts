@@ -40,8 +40,7 @@
    {
    "style":"dark",
    "text":"@",
-   "modifiers":["@","\"","#"],
-   "width": 1
+   "modifiers":["@","^","#","\""],
    },
    {
    "text": "A",
@@ -79,13 +78,13 @@
    {
    "image": "Shift",
    "selectedImage": "ShiftSelected",
-   "width": 1.32,
    "type":"shift",
    "style": "shift"
    },
    {
-   "style":"blankSpace",
-   "width": 0.18
+   "text": "*",
+   "modifiers":["*","&"],
+   "style":"dark"
    },
    {
    "text": "Z",
@@ -112,12 +111,7 @@
    "text": "M"
    },
    {
-   "style":"blankSpace",
-   "width": 0.18
-   },
-   {
-   "image": "Delete",
-   "width": 1.32,
+   "image": "Delete-mini",
    "style": "dark",
    "type": "delete"
    }
@@ -145,6 +139,10 @@
    "style": "dark",
    },
    {
+   "text": ":",
+   "style": "dark",
+   },
+   {
    "text": "]",
    "modifiers":["]",")","}"],
    "style": "dark",
@@ -155,10 +153,6 @@
    "style": "spacebar",
    "type": "spacebar",
    "keyboardDisplayName":"Obj-C"
-   },
-   {
-   "text": ":",
-   "style": "dark",
    },
    {
    "text": ";",

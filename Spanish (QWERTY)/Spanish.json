@@ -131,7 +131,7 @@
    "textIfMultipleKeyboards":"123",
    "style": "dark",
    "type": "switchKeyboard",
-   "keyboardName": "QWERTY-Numeric",
+   "keyboardName": "Spanish-Numeric",
    },
    {
    "image": "Globe",
@@ -141,11 +141,11 @@
    "type": "switchKeyboard"
    },
    {
-   "text": "space",
+   "text": "espacio",
    "width": 5,
    "style": "spacebar",
    "type": "spacebar",
-   "keyboardDisplayName":"English"
+   "keyboardDisplayName":"Español"
    },
    {
    "text": "return",

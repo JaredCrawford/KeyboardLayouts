@@ -5,7 +5,8 @@
   "width": 0.5
   },
   {
-  "text": "Ε"
+  "text": "Ε",
+  "modifiers":["Ε","Έ"]
   },
   {
   "text": "Ρ"
@@ -14,16 +15,19 @@
   "text": "Τ"
   },
   {
-  "text": "Υ"
+  "text": "Υ",
+  "modifiers":["Υ","Ύ","Ϋ","ΰ"]
   },
   {
   "text": "Θ"
   },
   {
-  "text": "Ι"
+  "text": "Ι",
+  "modifiers":["Ι","Ί","Ϊ","ΐ"]
   },
   {
-  "text": "Ο"
+  "text": "Ο",
+  "modifiers":["Ο","Ό"]
   },
   {
   "text": "Π"
@@ -42,10 +46,12 @@
   "width": 0.5
   },
   {
-  "text": "Α"
+  "text": "Α",
+  "modifiers":["Α","Ά"]
   },
   {
-  "text": "Σ"
+  "text": "Σ",
+  "modifiers":["Σ","ς"]
   },
   {
   "text": "Δ"
@@ -57,7 +63,8 @@
   "text": "Γ"
   },
   {
-  "text": "Η"
+  "text": "Η",
+  "modifiers":["Η","Ή"]
   },
   {
   "text": "Ξ"
@@ -95,7 +102,8 @@
   "text": "Ψ"
   },
   {
-  "text": "Ω"
+  "text": "Ω",
+  "modifiers": ["Ω","Ώ"]
   },
   {
   "text": "Β"
@@ -120,14 +128,16 @@
  [
   {
   "text": "123",
-  "width": 1.25,
+  "width": 2.5,
+  "widthIfMultipleKeyboards":1.25,
   "style": "dark",
   "type": "switchKeyboard",
   "keyboardName": "Greek-Numeric"
   },
   {
   "image": "Globe",
-  "width": 1.25,
+  "width": 0,
+  "widthIfMultipleKeyboards":1.25,
   "style": "dark",
   "type": "switchKeyboard"
   },

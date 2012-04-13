@@ -1,0 +1,203 @@
+[[
+ {
+ "text": "A",
+ "modifiers": [
+               "A",
+               "À",
+               "Â",
+               "Æ",
+               "Á",
+               "Ä",
+               "Ã",
+               "Å",
+               "Ā",
+               "ª"
+               ]
+ },
+ {
+ "text": "Z"
+ },
+ {
+ "text": "E",
+ "modifiers": [
+               "E",
+               "É",
+               "È",
+               "Ê",
+               "Ë",
+               "Ę",
+               "Ė",
+               "Ē"
+               ]
+ },
+ {
+ "text": "R"
+ },
+ {
+ "text": "T"
+ },
+ {
+ "text": "Y",
+ "modifiers": [
+               "Y",
+               "Ÿ"
+               ]
+ },
+ {
+ "text": "U",
+ "modifiers": [
+               "U",
+               "Û",
+               "Ù",
+               "Ü",
+               "Ú",
+               "Ū"
+               ]
+ },
+ {
+ "text": "I",
+ "modifiers": [
+               "I",
+               "Î",
+               "Ï",
+               "Ì",
+               "Í",
+               "Į",
+               "Ī"
+               ]
+ },
+ {
+ "text": "O",
+ "modifiers": [
+               "O",
+               "Ô",
+               "Œ",
+               "Ö",
+               "Ò",
+               "Ó",
+               "Õ",
+               "Ø",
+               "Ō",
+               "º"
+               ]
+ },
+ {
+ "text": "P"
+ }
+ ],
+[
+ {
+ "text": "Q"
+ },
+ {
+ "text": "S"
+ },
+ {
+ "text": "D"
+ },
+ {
+ "text": "F"
+ },
+ {
+ "text": "G"
+ },
+ {
+ "text": "H"
+ },
+ {
+ "text": "J"
+ },
+ {
+ "text": "K"
+ },
+ {
+ "text": "L"
+ },
+ {
+ "text": "M"
+ }
+ ],
+[
+ {
+ "image": "Shift",
+ "selectedImage": "ShiftSelected",
+ "width": 1.32,
+ "type": "shift",
+ "style": "shift"
+ },
+ {
+ "style": "blankSpace",
+ "width": 0.68
+ },
+ {
+ "text": "W"
+ },
+ {
+ "text": "X"
+ },
+ {
+ "text": "C",
+ "modifiers": [
+               "C",
+               "Ç",
+               "Ć",
+               "Č"
+               ]
+ },
+ {
+ "text": "V"
+ },
+ {
+ "text": "B"
+ },
+ {
+ "text": "N",
+ "modifiers": [
+               "N",
+               "Ñ",
+               "Ń"
+               ]
+ },
+ {
+ "style": "blankSpace",
+ "width": 0.68
+ },
+ {
+ "image": "Delete",
+ "width": 1.32,
+ "style": "dark",
+ "type": "delete"
+ }
+ ],
+[
+ {
+ "text": ".?123",
+ "width": 2.5,
+ "widthIfMultipleKeyboards": 1.25,
+ "textIfMultipleKeyboards": "123",
+ "style": "dark",
+ "type": "switchKeyboard",
+ "keyboardName": "French-Numeric"
+ },
+ {
+ "image": "Globe",
+ "width": 0,
+ "widthIfMultipleKeyboards": 1.25,
+ "style": "dark",
+ "type": "switchKeyboard"
+ },
+ {
+ "text": "espace",
+ "width": 5,
+ "style": "spacebar",
+ "type": "spacebar",
+ "keyboardDisplayName": "Français"
+ },
+ {
+ "text": "retour",
+ "width": 2.5,
+ "style": "blue",
+ "type": "return"
+ }
+ ]
+]

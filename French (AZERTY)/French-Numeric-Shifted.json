@@ -1,80 +1,76 @@
 [
  [
   {
-  "text": "1"
+  "text": "["
   },
   {
-  "text": "2"
+  "text": "]"
   },
   {
-  "text": "3"
+  "text": "{"
   },
   {
-  "text": "4"
+  "text": "}"
   },
   {
-  "text": "5"
+  "text": "#"
   },
   {
-  "text": "6"
+  "text": "%",
+  "modifiers":["%","‰"]
   },
   {
-  "text": "7"
+  "text": "^"
   },
   {
-  "text": "8"
+  "text": "*"
   },
   {
-  "text": "9"
+  "text": "+"
   },
   {
-  "text": "0",
-  "modifiers": ["0","˚"]
+  "text": "="
   }
   ],
  [
   {
-  "text": "-",
-  "modifiers": ["-","–","—","•"]
+  "text": "_"
   },
   {
-  "text": "/"
+  "text": "\\"
   },
   {
-  "text": ":"
+  "text": "|"
   },
   {
-  "text": ";"
+  "text": "~"
   },
   {
-  "text": "("
+  "text": "<"
   },
   {
-  "text": ")"
+  "text": ">"
   },
   {
-  "text": "$",
-  "modifiers": ["$","¢","£","€","¥","₩"]
+  "text": "€"
   },
   {
-  "text": "&",
-  "modifiers": ["&","§"]
+  "text": "£"
   },
   {
-  "text": "@"
+  "text": "¥"
   },
   {
-  "text": "\"",
-  "modifiers": ["\"","”","‟","„","»","«"]
+  "text": "•"
   }
   ],
  [
   {
-  "text": "#+=",
+  "text": "123",
   "width": 1.32,
   "style": "dark",
   "type": "switchKeyboard",
-  "keyboardName": "QWERTY-Numeric-Shifted"
+  "keyboardName": "French-Numeric"
   },
   {
   "style":"blankSpace",
@@ -122,7 +118,7 @@
   "widthIfMultipleKeyboards": 1.25,
   "style": "dark",
   "type": "switchKeyboard",
-  "keyboardName": "QWERTY",
+  "keyboardName": "French",
   "font": "HelveticaNeue-CondensedBold"
   },
   {
@@ -133,13 +129,13 @@
   "type": "switchKeyboard"
   },
   {
-  "text": "space",
+  "text": "espace",
   "width": 5,
   "style": "spacebar",
   "type": "spacebar"
   },
   {
-  "text": "return",
+  "text": "retour",
   "width": 2.5,
   "style": "blue",
   "type": "return"

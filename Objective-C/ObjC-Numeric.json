@@ -119,7 +119,7 @@
    {
    "text": "ABC",
    "width": 2.5,
-   "widthIfMutlipleKeyboards": 1.25,
+   "widthIfMultipleKeyboards": 1.25,
    "style": "dark",
    "type": "switchKeyboard",
    "keyboardName": "ObjC",

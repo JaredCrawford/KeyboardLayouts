@@ -1,0 +1,155 @@
+ [
+  [
+   {
+   "text": "Q"
+   },
+   {
+   "text": "W"
+   },
+   {
+   "text": "E"
+   },
+   {
+   "text": "R"
+   },
+   {
+   "text": "T"
+   },
+   {
+   "text": "Y"
+   },
+   {
+   "text": "U"
+   },
+   {
+   "text": "I"
+   },
+   {
+   "text": "O"
+   },
+   {
+   "text": "P"
+   },
+   {
+   "image": "Delete",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "style": "blankSpace",
+   "width": 0.3
+   },
+   {
+   "text": "A"
+   },
+   {
+   "text": "S"
+   },
+   {
+   "text": "D"
+   },
+   {
+   "text": "F",
+   "hasHomerowNub":1
+   },
+   {
+   "text": "G"
+   },
+   {
+   "text": "H"
+   },
+   {
+   "text": "J",
+   "hasHomerowNub":1
+   },
+   {
+   "text": "K"
+   },
+   {
+   "text": "L"
+   },
+   {
+   "text": "return",
+   "width": 1.7,
+   "style": "lightWithGrayText",
+   "type": "return"
+   }
+   ],
+  [
+   {
+   "image": "Shift",
+   "style":"shift",
+   "selectedImage": "ShiftSelected",
+   "type": "shift"
+   },
+   {
+   "text": "Z"
+   },
+   {
+   "text": "X"
+   },
+   {
+   "text": "C"
+   },
+   {
+   "text": "V"
+   },
+   {
+   "text": "B"
+   },
+   {
+   "text": "N"
+   },
+   {
+   "text": "M"
+   },
+   {
+   "text": ",",
+   "shiftText": "!"
+   },
+   {
+   "text": ".",
+   "shiftText": "?"
+   },
+   {
+   "image": "Shift",
+   "style":"shift",
+   "selectedImage": "ShiftSelected",
+   "width": 1.25,
+   "type": "shift"
+   }
+   ],
+  [
+   {
+   "text": ".?123",
+   "width": 3,
+   "widthIfMultipleKeyboards": 1.5,
+   "type": "switchKeyboard",
+   "keyboardName": "Spanish-Numeric"
+   },
+   {
+   "image": "Globe",
+   "width": 0,
+   "widthIfMultipleKeyboards": 1.5,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "espacio",
+   "width": 6,
+   "style": "spacebar",
+   "type": "spacebar",
+   },
+   {
+   "text": ".?123",
+   "width": 1.25,
+   "type": "switchKeyboard",
+   "keyboardName": "Spanish-Numeric"
+   },
+   {
+   "image": "Dismiss",
+   "type": "dismissKeyboard"
+   }
+   ]
+  ]

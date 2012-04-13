@@ -1,0 +1,140 @@
+[
+ [
+  {
+  "text": "∂"
+  },
+  {
+  "text": "∫",
+  "modifiers":["∫","∬","∮"]
+  },
+  {
+  "text": "ʹ",
+  "modifiers":["ʹ","ʺ","‴"],
+  },
+  {
+  "text": "∴",
+  "modifiers": ["∴","∵","∶","∷"]
+  },
+  {
+  "text": "#",
+  "modifiers":["#","№"]
+  },
+  {
+  "text": "∑"
+  },
+  {
+  "text": "√",
+  "modifiers":["√","∛","∜"]
+  },
+  {
+  "text": "∠",
+  "modifiers":["∠","∟","∡","∢"]
+  },
+  {
+  "text": "∃",
+  "modifiers":["∃","∄"]
+  },
+  {
+  "text": "∀"
+  }
+  ],
+ [
+  {
+  "text": "∩"
+  },
+  {
+  "text": "∪"
+  },
+  {
+  "text": "∝"
+  },
+  {
+  "text": "ℇ"
+  },
+  {
+  "text": "⊂",
+  "modifiers":["⊂","⊄","⊆","⊈"]
+  },
+  {
+  "text": "⊃",
+  "modifiers":["⊃","⊅","⊇","⊉"]
+  },
+  {
+  "text": "∅"
+  },
+  {
+  "text": "∆"
+  },
+  {
+  "text": "∇"
+  },
+  {
+  "text": "$",
+  "modifiers":["$","€","£","¥","¢","₨"]
+  }
+  ],
+ [
+  {
+    "style":"blankSpace",
+    "width":2
+  },
+  {
+  "text": "i",
+  "modifiers":["i","j"],
+  "width": 1.5
+  },
+  {
+  "text": "∞",
+  "width":1.5
+  },
+  {
+  "text": "ˆ",
+  "modifiers":["ˆ","˘","ˇ"],
+  "width": 1.5
+  },
+  {
+  "text": "~",
+  "width": 1.5
+  },
+  
+  {
+  "style":"blankSpace",
+  "width":0.75
+  },
+  {
+  "image": "Delete",
+  "width": 1.25,
+  "style": "dark",
+  "type": "delete"
+  }
+  ],
+ [
+  {
+  "text": "123",
+  "width": 2.5,
+  "widthIfMultipleKeyboards":1.25,
+  "style": "dark",
+  "type": "switchKeyboard",
+  "keyboardName": "Equation"
+  },
+  {
+  "image": "Globe",
+  "width": 0,
+  "widthIfMultipleKeyboards":1.25,
+  "style": "dark",
+  "type": "switchKeyboard"
+  },
+  {
+  "text": "space",
+  "width": 5,
+  "style": "spacebar",
+  "type": "spacebar"
+  },
+  {
+  "text": "Return",
+  "width": 2.5,
+  "style": "blue",
+  "type": "return"
+  }
+  ]
+ ]

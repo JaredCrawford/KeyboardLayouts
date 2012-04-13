@@ -1,0 +1,180 @@
+[
+ [
+  {
+  "text": "\"",
+  "modifiers": ["\"","”","‟","„","»","«"]
+  },
+  {
+  "text": "<",
+  "modifiers":["<","≤"]
+  },
+  {
+  "text": ">",
+  "modifiers":[">","≥"]
+  },
+  {
+  "text": "P"
+  },
+  {
+  "text": "Y",
+  "modifiers":["Y","Ŷ","Ÿ"]
+  },
+  {
+  "text": "F"
+  },
+  {
+  "text": "G"
+  },
+  {
+  "text": "C",
+  "modifiers":["C","Ç","Ć","Č"]
+  },
+  {
+  "text": "R"
+  },
+  {
+  "text": "L",
+  "modifiers":["L","Ł"]
+  },
+  {
+  "text": "?",
+  "modifiers": ["?","¿"]
+  },
+  {
+  "image": "Delete",
+  "width":2,
+  "style": "dark",
+  "type": "delete"
+  }
+  ],
+ [
+  {
+  "style": "blankSpace",
+  "width": 0.3
+  },
+  {
+  "text": "A",
+  "modifiers":["A","À","Á","Â","Ä","Æ","Ã","Å","Ā"]
+  },
+  {
+  "text": "O",
+  "modifiers":["O","Ô","Ö","Ò","Ó","Œ","Ø","Ō","Õ"]
+  },
+  {
+  "text": "E",
+  "modifiers":["E","È","É","Ê","Ë","Ē","Ė","Ę"]
+  },
+  {
+  "text": "U",
+  "modifiers":["U","Û","Ü","Ù","Ú","Ū"]
+  },
+  {
+  "text": "I",
+  "modifiers":["I","Î","Ï","Í","Ī","Į","Ì"]
+  },
+  {
+  "text": "D"
+  },
+  {
+  "text": "H"
+  },
+  {
+  "text": "T"
+  },
+  {
+  "text": "N",
+  "modifiers":["N","Ñ","Ń"]
+  },
+  {
+  "text": "S",
+  "modifiers":["S","Ś","Š"]
+  },
+  {
+  "text": "_"
+  },
+  {
+  "text": "return",
+  "width": 1.7,
+  "style": "lightWithGrayText",
+  "type": "return"
+  }
+  ],
+ [
+  {
+  "image": "Shift",
+  "selectedImage": "ShiftSelected",
+  "type":"shift",
+  "style": "shift"
+  },
+  {
+  "text": ":"
+  },
+  {
+  "text": "Q"
+  },
+  {
+  "text": "J"
+  },
+  {
+  "text": "K"
+  },
+  {
+  "text": "X"
+  },
+  {
+  "text": "B"
+  },
+  {
+  "text": "M"
+  },
+  {
+  "text": "W"
+  },
+  {
+  "text": "V"
+  },
+  {
+  "text": "Z",
+  "modifiers":["Z","Ž","Ź","Ż"]
+  },
+  {
+  "image": "Shift",
+  "selectedImage": "ShiftSelected",
+  "type":"shift",
+  "style": "shift",
+  "width":2
+  }
+  ],
+  [
+   {
+   "text": ".?123",
+   "width": 3,
+   "widthIfMultipleKeyboards": 1.5,
+   "type": "switchKeyboard",
+   "keyboardName": "English-Numeric"
+   },
+   {
+   "image": "Globe",
+   "width": 0,
+   "widthIfMultipleKeyboards": 1.5,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "width": 6,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardDisplayName":"English"
+   },
+   {
+   "text": ".?123",
+   "width": 1.25,
+   "type": "switchKeyboard",
+   "keyboardName": "English-Numeric"
+   },
+   {
+   "image": "Dismiss",
+   "type": "dismissKeyboard"
+   }
+   ]
+  ]

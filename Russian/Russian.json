@@ -1,0 +1,210 @@
+ [
+  [
+   {
+   "text":"Й",
+   "inputText": "й",
+   "shiftText": "Й"
+   },
+   {
+   "text":"Ц",
+   "inputText": "ц",
+   "shiftText": "Ц"
+   },
+   {
+   "text":"У",
+   "inputText": "у",
+   "shiftText": "У"
+   },
+   {
+   "text":"К",
+   "inputText": "к",
+   "shiftText": "К"
+   },
+   {
+   "text":"Е",
+   "inputText": "е",
+   "modifiers":["е","ё"],
+   "shiftText": "Е"
+   },
+   {
+   "text":"Н",
+   "inputText": "н",
+   "shiftText": "Н"
+   },
+   {
+   "text":"Г",
+   "inputText": "г",
+   "shiftText": "Г"
+   },
+   {
+   "text":"Ш",
+   "inputText": "ш",
+   "shiftText": "Ш",
+   "textSize": 20
+   },
+   {
+   "text":"Щ",
+   "inputText": "щ",
+   "shiftText": "Щ",
+   "textSize": 20
+   },
+   {
+   "text":"З",
+   "inputText": "з",
+   "shiftText": "З"
+   },
+   {
+   "text":"Х",
+   "inputText": "х",
+   "shiftText": "Х"
+   }
+   ],
+  [
+   {
+   "text":"Ф",
+   "inputText": "ф",
+   "shiftText": "Ф"
+   },
+   {
+   "text":"Ы",
+   "inputText": "ы",
+   "shiftText": "Ы"
+   },
+   {
+   "text":"В",
+   "inputText": "в",
+   "shiftText": "В"
+   },
+   {
+   "text":"А",
+   "inputText": "а",
+   "shiftText": "А"
+   },
+   {
+   "text":"П",
+   "inputText": "п",
+   "shiftText": "П"
+   },
+   {
+   "text":"Р",
+   "inputText": "р",
+   "shiftText": "Р"
+   },
+   {
+   "text":"О",
+   "inputText": "о",
+   "shiftText": "О"
+   },
+   {
+   "text":"Л",
+   "inputText": "л",
+   "shiftText": "Л"
+   },
+   {
+   "text":"Д",
+   "inputText": "д",
+   "shiftText": "Д"
+   },
+   {
+   "text":"Ж",
+   "inputText": "ж",
+   "shiftText": "Ж",
+   "textSize": 20
+   },
+   {
+   "text":"Э",
+   "inputText": "э",
+   "shiftText": "Э"
+   }
+   ],
+  [
+   {
+   "image": "Shift",
+   "selectedImage": "ShiftSelected",
+   "type":"shift",
+   "style": "shift"
+   },
+   {
+   "text":"Я",
+   "inputText": "я",
+   "shiftText": "Я"
+   },
+   {
+   "text":"Ч",
+   "inputText": "ч",
+   "shiftText": "Ч"
+   },
+   {
+   "text":"С",
+   "inputText": "с",
+   "shiftText": "С"
+   },
+   {
+   "text":"М",
+   "inputText": "м",
+   "shiftText": "М"
+   },
+   {
+   "text":"И",
+   "inputText": "и",
+   "shiftText": "И"
+   },
+   {
+   "text":"Т",
+   "inputText": "т",
+   "shiftText": "Т"
+   },
+   {
+   "text":"Ь",
+   "inputText": "ь",
+   "modifiers":["ь","ъ"],
+   "shiftText": "Ь"
+   },
+   {
+   "text":"Б",
+   "inputText": "б",
+   "shiftText": "Б"
+   },
+   {
+   "text":"Ю",
+   "inputText": "ю",
+   "shiftText": "Ю"
+   },
+   {
+   "image": "Delete-mini",
+   "style": "dark",
+   "type": "delete"
+   }
+   ],
+  [
+   {
+   "text": ".?123",
+   "width": 2.5,
+   "widthIfMultipleKeyboards": 1.25,
+   "textIfMultipleKeyboards":"123",
+   "style": "dark",
+   "type": "switchKeyboard",
+   "keyboardName": "Russian-Numeric"
+   },
+   {
+   "image": "Globe",
+   "width": 0,
+   "widthIfMultipleKeyboards": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "Пробел",
+   "width": 5,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardDisplayName":"Russian"
+   },
+   {
+   "text": "Ввод",
+   "width": 2.5,
+   "style": "blue",
+   "type": "return"
+   }
+   ]
+  ]
