@@ -1,0 +1,143 @@
+ [
+  [
+  {
+   "image": "Delete",
+   "width": 1.32,
+   "style": "dark",
+   "type": "delete"
+   }
+   {
+   "text": "ק"
+   },
+   {
+   "text": "ר"
+   },
+   {
+   "text": "א",
+   },
+   {
+   "text": "ט"
+   },
+   {
+   "text": "ו"
+   },
+   {
+   "text": "ן",
+   },
+   {
+   "text": "ם",
+   },
+   {
+   "text": "פ",
+   }
+   ],
+   [
+   {
+   "text": "ש",
+   },
+   {
+   "text": "ד"
+   },
+   {
+   "text": "ג",
+   },
+   {
+   "text": "כ",
+   },
+   {
+   "text": "ע"
+   },
+   {
+   "text": "י"
+   },
+   {
+   "text": "ח"
+   },
+   {
+   "text": "ל"
+   },
+   {
+   "text": "ך"
+   },
+   {
+   "text": "ף"
+   }
+   {
+   "text": "ֶ ֻ ָ",
+   "width": 2.5,
+   "widthIfMultipleKeyboards": 1.25,
+   "textIfMultipleKeyboards":"ֶ ֻ ָ",
+   "style": "dark",
+   "type": "switchKeyboard",
+   "keyboardName": "English-Numeric",
+   },   
+  ],
+  [
+   {
+   "style":"blankSpace",
+   "width": 0.18
+   },
+   {
+   "text": "ז",
+   },
+   {
+   "text": "ס"
+   },
+   {
+   "text": "ב",
+   },
+   {
+   "text": "ה"
+   },
+   {
+   "text": "נ"
+   },
+   {
+   "text": "מ",
+   },
+   {
+   "text": "צ"
+   },
+   {
+   "text": "ת"
+   },
+   {
+   "text": "ץ"
+   },      
+   {
+   "style":"blankSpace",
+   "width": 0.18
+   } 
+   ],
+  [
+   {
+   "text": ".?123",
+   "width": 2.5,
+   "widthIfMultipleKeyboards": 1.25,
+   "textIfMultipleKeyboards":"123",
+   "style": "dark",
+   "type": "switchKeyboard",
+   "keyboardName": "English-Numeric",
+   },
+   {
+   "image": "Globe",
+   "width": 0,
+   "widthIfMultipleKeyboards": 1.25,
+   "style": "dark",
+   "type": "switchKeyboard"
+   },
+   {
+   "text": "space",
+   "width": 5,
+   "style": "spacebar",
+   "type": "spacebar",
+   "keyboardDisplayName":"English"
+   },
+   {
+   "text": "return",
+   "width": 2.5,
+   "style": "blue",
+   "type": "return"
+   }
+   ]
+  ]
